@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100;1,200&family=Port+Lligat+Sans&family=Port+Lligat+Slab&family=Sansita+Swashed:wght@300&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EDEEEF;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style:none ;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+h1, h3{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Port Lligat Sans', sans-serif;
+    font-family: 'Port Lligat Slab', serif;
+    font-family: 'Sansita Swashed', cursive;
+}
+
+header{
+    font-size: 20px;
+    background-color: black;
+    padding: 30px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-size: 120px;
+}
+
+.text{
+    font-size: 40px;
+    margin: 0;
+}
+
+h3{
+    font-size: 40px;
+}
+
+ul li{
+    margin-right: 45px;
+}
+
+main{
+    padding: 100px;
+    text-align: center;
+}
